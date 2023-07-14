@@ -1,0 +1,59 @@
+body {
+  background-image: url("../images/blur\ 2.jpg");
+  background-size: cover;
+}
+
+header {
+  padding-top: 10px;
+  color: rgb(104, 100, 93);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.nav-color {
+  font-size: xx-large;
+  background-color: rgba(85, 255, 0, 0.932) !important;
+  font-family: monospace;
+}
+
+.about {
+  width: auto;
+  height: fit-content;
+  border: 8px solid rgb(222, 241, 253);
+  padding: 20px;
+  margin: 50px;
+  font-family: monospace;
+  font-size: larger;
+}
+
+.backgroundCards {
+  align-content: center;
+  background: color(srgb rgba(0, 255, 115, 0.8) green blue);
+}
+
+#div {
+  background: color(srgb rgba(112, 63, 63, 0.3) green blue);
+}
+
+.card {
+  background-color: (rgb(48, 184, 14)) !important;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0px !important;
+}
+
+h2 {
+  padding-top: 20px;
+  align-items: center;
+}
+
+li {
+  background-color: rgb(35, 238, 45);
+  height: 100px;
+  font-family: monospace;
+  font-style: oblique;
+  align-content: center;
+}
+
+/* .footer{} */
